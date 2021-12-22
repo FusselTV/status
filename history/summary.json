@@ -22,19 +22,19 @@
     "url": "https://vault.fussel.tv",
     "icon": "https://vault.fussel.tv/favicon.ico",
     "slug": "bitwarden",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 645,
-    "timeDay": 645,
-    "timeWeek": 645,
-    "timeMonth": 645,
-    "timeYear": 645,
+    "status": "up",
+    "uptime": "94.18%",
+    "uptimeDay": "94.18%",
+    "uptimeWeek": "94.18%",
+    "uptimeMonth": "94.18%",
+    "uptimeYear": "94.18%",
+    "time": 663,
+    "timeDay": 663,
+    "timeWeek": 663,
+    "timeMonth": 663,
+    "timeYear": 663,
     "dailyMinutesDown": {
-      "2021-12-22": 0
+      "2021-12-22": 12
     }
   },
   {
