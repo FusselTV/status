@@ -5,19 +5,23 @@ repo: status # The name of this repository
 sites:
   - name: Router
     url: https://avm.fussel.tv
+    icon: https://avm.fussel.tv/favicon.ico
   - name: Bitwarden
     url: https://vault.fussel.tv
+    icon: https://vault.fussel.tv/favicon.ico
   - name: Home Assistant
     url: https://ha.fussel.tv
+    icon: https://fussel.tv/favicon.ico
   - name: Mails
     url: https://ams.daportal.net/roundcube/
+    icon: https://ams.daportal.net/roundcube/favicon.ico
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.fussel.tv
   # baseUrl: /your-repo-name
-  logoUrl: https://i.ibb.co/8m34vLy/logo.jpg
+  logoUrl: https://i.ibb.co/VvQr05G/logo.png
   name: Fussel - Services
   introTitle: "Overview"
   #introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
@@ -28,6 +32,22 @@ status-website:
       href: https://twitch.tv/fusseltv
     - title: Twitter
       href: https://twitter.com/fussel_tv
-      
+  theme: dark
+  favicon: https://i.ibb.co/VvQr05G/logo.png
+  js: "  const fpPromise = new Promise((resolve, reject) => {
+    const script = document.createElement('script');
+    script.onload = resolve;
+    script.onerror = reject;
+    script.async = true;
+    script.src = 'https://cdn.jsdelivr.net/npm/'
+      + '@fingerprintjs/fingerprintjs-pro@3/dist/fp.min.js';
+    document.head.appendChild(script);
+  })
+    .then(() => FingerprintJS.load({
+      token: 'bT4n2ChdntZYUHDtIgsO'
+    }));
+  fpPromise
+    .then(fp => fp.get())
+    .then(result => console.log(result.visitorId));"
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
