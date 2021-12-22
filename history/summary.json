@@ -22,18 +22,20 @@
     "url": "https://vault.fussel.tv",
     "icon": "https://vault.fussel.tv/favicon.ico",
     "slug": "bitwarden",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 623,
-    "timeWeek": 623,
-    "timeMonth": 623,
-    "timeYear": 623,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.96%",
+    "time": 645,
+    "timeDay": 645,
+    "timeWeek": 645,
+    "timeMonth": 645,
+    "timeYear": 645,
+    "dailyMinutesDown": {
+      "2021-12-22": 0
+    }
   },
   {
     "name": "Home Assistant",
