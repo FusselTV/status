@@ -1,7 +1,7 @@
 url: https://vault.fussel.tv
-status: up
-code: 200
+status: down
+code: 520
 responseTime: 450
-lastUpdated: 2022-01-26T08:39:18.677Z
+lastUpdated: 2022-01-26T12:18:32.006Z
 startTime: Wed Dec 22 2021 10:39:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
