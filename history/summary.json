@@ -5,11 +5,11 @@
     "icon": "https://avm.fussel.tv/favicon.ico",
     "slug": "router",
     "status": "up",
-    "uptime": "99.62%",
+    "uptime": "99.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.98%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "99.62%",
+    "uptimeYear": "99.63%",
     "time": 2810,
     "timeDay": 1501,
     "timeWeek": 2657,
@@ -70,7 +70,7 @@
     "url": "https://ams.daportal.net/roundcube/",
     "icon": "https://ams.daportal.net/roundcube/favicon.ico",
     "slug": "mails",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -81,6 +81,8 @@
     "timeWeek": 545,
     "timeMonth": 664,
     "timeYear": 616,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-01": 0
+    }
   }
 ]
