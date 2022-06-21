@@ -1,7 +1,7 @@
 url: https://nginx.fussel.tv/
-status: up
-code: 200
-responseTime: 249
-lastUpdated: 2022-06-20T23:20:07.811Z
+status: down
+code: 500
+responseTime: 124
+lastUpdated: 2022-06-21T06:50:37.142Z
 startTime: Wed Mar 23 2022 16:19:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
