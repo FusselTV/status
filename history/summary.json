@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 618,
-    "timeDay": 492,
-    "timeWeek": 530,
-    "timeMonth": 509,
+    "timeDay": 630,
+    "timeWeek": 553,
+    "timeMonth": 515,
     "timeYear": 617,
     "dailyMinutesDown": {
       "2022-06-30": 35,
@@ -33,10 +33,10 @@
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.08%",
     "time": 952,
-    "timeDay": 592,
-    "timeWeek": 1250,
-    "timeMonth": 749,
-    "timeYear": 952,
+    "timeDay": 747,
+    "timeWeek": 1274,
+    "timeMonth": 750,
+    "timeYear": 951,
     "dailyMinutesDown": {
       "2023-04-15": 89,
       "2023-04-05": 17,
@@ -77,8 +77,7 @@
       "2022-04-30": 37,
       "2022-04-26": 483,
       "2022-04-22": 60,
-      "2022-04-20": 166,
-      "2022-04-19": 270
+      "2022-04-20": 166
     }
   },
   {
@@ -87,15 +86,15 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "98.96%",
-    "uptimeDay": "95.85%",
+    "uptime": "98.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.41%",
-    "uptimeMonth": "95.73%",
+    "uptimeMonth": "95.85%",
     "uptimeYear": "98.63%",
     "time": 804,
-    "timeDay": 327,
-    "timeWeek": 1184,
-    "timeMonth": 615,
+    "timeDay": 686,
+    "timeWeek": 1342,
+    "timeMonth": 611,
     "timeYear": 782,
     "dailyMinutesDown": {
       "2023-04-17": 60,
@@ -176,8 +175,7 @@
       "2022-04-30": 37,
       "2022-04-26": 481,
       "2022-04-22": 58,
-      "2022-04-20": 165,
-      "2022-04-19": 270
+      "2022-04-20": 165
     }
   },
   {
@@ -192,9 +190,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 304,
-    "timeDay": 219,
-    "timeWeek": 293,
-    "timeMonth": 264,
+    "timeDay": 264,
+    "timeWeek": 291,
+    "timeMonth": 266,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2022-06-30": 35,
@@ -208,18 +206,19 @@
     "icon": "https://cdn.worldvectorlogo.com/logos/nginx-1.svg",
     "slug": "nginx",
     "status": "down",
-    "uptime": "33.15%",
+    "uptime": "33.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "28.51%",
-    "time": 404,
-    "timeDay": 137,
-    "timeWeek": 270,
-    "timeMonth": 270,
-    "timeYear": 393,
+    "uptimeYear": "28.24%",
+    "time": 412,
+    "timeDay": 3411,
+    "timeWeek": 734,
+    "timeMonth": 368,
+    "timeYear": 402,
     "dailyMinutesDown": {
-      "2023-04-18": 27,
+      "2023-04-19": 30,
+      "2023-04-18": 1440,
       "2023-04-17": 1440,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
@@ -492,15 +491,15 @@
     "icon": "https://0987.win/images/favicon-196x196.png",
     "slug": "kutt",
     "status": "up",
-    "uptime": "95.71%",
+    "uptime": "95.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.02%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "95.41%",
-    "time": 841,
-    "timeDay": 641,
-    "timeWeek": 1264,
-    "timeMonth": 1015,
+    "uptimeYear": "95.42%",
+    "time": 840,
+    "timeDay": 691,
+    "timeWeek": 1262,
+    "timeMonth": 1009,
     "timeYear": 839,
     "dailyMinutesDown": {
       "2023-04-15": 99,
@@ -549,8 +548,7 @@
       "2022-04-23": 1440,
       "2022-04-22": 1440,
       "2022-04-21": 1440,
-      "2022-04-20": 494,
-      "2022-04-19": 270
+      "2022-04-20": 494
     }
   }
 ]
