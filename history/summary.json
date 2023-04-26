@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 617,
-    "timeDay": 649,
-    "timeWeek": 573,
-    "timeMonth": 532,
+    "timeDay": 628,
+    "timeWeek": 572,
+    "timeMonth": 538,
     "timeYear": 616,
     "dailyMinutesDown": {
       "2022-06-30": 35,
@@ -33,9 +33,9 @@
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.12%",
     "time": 957,
-    "timeDay": 612,
-    "timeWeek": 964,
-    "timeMonth": 839,
+    "timeDay": 617,
+    "timeWeek": 952,
+    "timeMonth": 835,
     "timeYear": 953,
     "dailyMinutesDown": {
       "2023-04-19": 282,
@@ -75,8 +75,7 @@
       "2022-06-08": 26,
       "2022-05-08": 21,
       "2022-05-01": 25,
-      "2022-04-30": 37,
-      "2022-04-26": 483
+      "2022-04-30": 37
     }
   },
   {
@@ -85,18 +84,17 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "99.04%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "98.63%",
+    "uptime": "99.02%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "98.66%",
     "uptimeYear": "98.72%",
     "time": 805,
-    "timeDay": 642,
+    "timeDay": 678,
     "timeWeek": 655,
     "timeMonth": 670,
-    "timeYear": 782,
+    "timeYear": 783,
     "dailyMinutesDown": {
-      "2023-04-25": 11,
       "2023-04-20": 20,
       "2023-04-17": 60,
       "2023-04-07": 56,
@@ -173,8 +171,7 @@
       "2022-06-08": 25,
       "2022-05-24": 16,
       "2022-05-01": 25,
-      "2022-04-30": 37,
-      "2022-04-26": 481
+      "2022-04-30": 37
     }
   },
   {
@@ -189,9 +186,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 303,
-    "timeDay": 291,
-    "timeWeek": 257,
-    "timeMonth": 269,
+    "timeDay": 310,
+    "timeWeek": 263,
+    "timeMonth": 272,
     "timeYear": 304,
     "dailyMinutesDown": {
       "2022-06-30": 35,
@@ -205,18 +202,19 @@
     "icon": "https://cdn.worldvectorlogo.com/logos/nginx-1.svg",
     "slug": "nginx",
     "status": "down",
-    "uptime": "32.50%",
+    "uptime": "32.49%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.36%",
+    "uptimeYear": "26.32%",
     "time": 411,
-    "timeDay": 308,
-    "timeWeek": 769,
-    "timeMonth": 381,
+    "timeDay": 309,
+    "timeWeek": 326,
+    "timeMonth": 379,
     "timeYear": 403,
     "dailyMinutesDown": {
-      "2023-04-25": 1282,
+      "2023-04-26": 28,
+      "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
       "2023-04-22": 1440,
@@ -502,10 +500,10 @@
     "uptimeMonth": "99.14%",
     "uptimeYear": "96.75%",
     "time": 914,
-    "timeDay": 759,
-    "timeWeek": 3648,
-    "timeMonth": 1840,
-    "timeYear": 917,
+    "timeDay": 772,
+    "timeWeek": 3655,
+    "timeMonth": 1834,
+    "timeYear": 918,
     "dailyMinutesDown": {
       "2023-04-19": 263,
       "2023-04-15": 99,
@@ -547,8 +545,7 @@
       "2022-05-17": 1440,
       "2022-05-16": 1440,
       "2022-05-15": 1258,
-      "2022-05-08": 19,
-      "2022-04-26": 466
+      "2022-05-08": 19
     }
   }
 ]
