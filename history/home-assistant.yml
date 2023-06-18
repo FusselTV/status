@@ -1,7 +1,7 @@
 url: https://ha.fussel.tv
-status: up
-code: 200
-responseTime: 493
-lastUpdated: 2023-06-18T15:30:49.652Z
+status: down
+code: 400
+responseTime: 752
+lastUpdated: 2023-06-18T21:22:31.180Z
 startTime: Wed Dec 22 2021 10:39:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
