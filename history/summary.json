@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 528,
     "dailyMinutesDown": {
-      "2024-01-22": 1150,
+      "2024-01-22": 1160,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -295,17 +295,17 @@
     "url": "https://ha.fussel.tv",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "88.80%",
+    "uptimeDay": "88.79%",
     "uptimeWeek": "94.42%",
     "uptimeMonth": "98.20%",
     "uptimeYear": "98.67%",
     "time": 625,
-    "timeDay": 482,
-    "timeWeek": 481,
-    "timeMonth": 473,
-    "timeYear": 643,
+    "timeDay": 477,
+    "timeWeek": 478,
+    "timeMonth": 472,
+    "timeYear": 642,
     "dailyMinutesDown": {
       "2024-01-22": 136,
       "2024-01-21": 279,
@@ -366,8 +366,7 @@
       "2023-07-01": 45,
       "2023-06-30": 107,
       "2023-06-29": 12,
-      "2023-06-25": 43,
-      "2023-06-20": 39
+      "2023-06-25": 43
     }
   },
   {
@@ -387,7 +386,7 @@
     "timeMonth": 0,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2024-01-22": 1150,
+      "2024-01-22": 1160,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -607,7 +606,7 @@
     "timeMonth": 0,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2024-01-22": 1150,
+      "2024-01-22": 1160,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
@@ -991,7 +990,7 @@
     "timeMonth": 172,
     "timeYear": 715,
     "dailyMinutesDown": {
-      "2024-01-22": 1150,
+      "2024-01-22": 1160,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
       "2024-01-19": 1440,
