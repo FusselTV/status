@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2024-01-23": 196,
+      "2024-01-23": 227,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -295,9 +295,9 @@
     "url": "https://ha.fussel.tv",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "76.57%",
+    "uptimeDay": "76.56%",
     "uptimeWeek": "92.43%",
     "uptimeMonth": "97.74%",
     "uptimeYear": "98.90%",
@@ -305,7 +305,7 @@
     "timeDay": 480,
     "timeWeek": 486,
     "timeMonth": 475,
-    "timeYear": 639,
+    "timeYear": 638,
     "dailyMinutesDown": {
       "2024-01-23": 60,
       "2024-01-22": 277,
@@ -357,8 +357,7 @@
       "2023-08-03": 20,
       "2023-07-31": 167,
       "2023-07-30": 29,
-      "2023-07-29": 19,
-      "2023-07-28": 22
+      "2023-07-29": 19
     }
   },
   {
@@ -371,14 +370,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "45.11%",
+    "uptimeYear": "45.10%",
     "time": 305,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 280,
     "dailyMinutesDown": {
-      "2024-01-23": 197,
+      "2024-01-23": 227,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -599,7 +598,7 @@
     "timeMonth": 0,
     "timeYear": 353,
     "dailyMinutesDown": {
-      "2024-01-23": 197,
+      "2024-01-23": 227,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
@@ -976,14 +975,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.58%",
+    "uptimeYear": "58.57%",
     "time": 715,
     "timeDay": 228,
     "timeWeek": 187,
     "timeMonth": 177,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2024-01-23": 197,
+      "2024-01-23": 227,
       "2024-01-22": 1440,
       "2024-01-21": 1440,
       "2024-01-20": 1440,
