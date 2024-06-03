@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "4.03%",
+    "uptimeYear": "4.02%",
     "time": 528,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 552,
     "dailyMinutesDown": {
-      "2024-06-03": 253,
+      "2024-06-03": 272,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -440,13 +440,13 @@
     "url": "https://ha.fussel.tv",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "98.62%",
+    "uptimeDay": "98.61%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "97.86%",
     "uptimeYear": "98.79%",
-    "time": 807,
+    "time": 808,
     "timeDay": 2954,
     "timeWeek": 4202,
     "timeMonth": 2425,
@@ -495,8 +495,7 @@
       "2023-12-01": 1,
       "2023-11-13": 37,
       "2023-11-12": 26,
-      "2023-11-05": 30,
-      "2023-10-30": 16
+      "2023-11-05": 30
     }
   },
   {
@@ -516,7 +515,7 @@
     "timeMonth": 0,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2024-06-03": 253,
+      "2024-06-03": 272,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -869,7 +868,7 @@
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2024-06-03": 253,
+      "2024-06-03": 272,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
@@ -1253,7 +1252,7 @@
     "timeMonth": 0,
     "timeYear": 358,
     "dailyMinutesDown": {
-      "2024-06-03": 253,
+      "2024-06-03": 272,
       "2024-06-02": 1440,
       "2024-06-01": 1440,
       "2024-05-31": 1440,
