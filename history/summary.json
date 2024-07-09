@@ -5,7 +5,7 @@
     "icon": "https://upload.wikimedia.org/wikipedia/de/6/68/Fritz%21_Logo.svg",
     "slug": "fritz-box",
     "status": "down",
-    "uptime": "53.91%",
+    "uptime": "53.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-09": 565,
+      "2024-07-09": 587,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -461,13 +461,13 @@
     "url": "https://ha.fussel.tv",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.57%",
-    "uptimeDay": "95.64%",
+    "uptimeDay": "95.63%",
     "uptimeWeek": "97.23%",
     "uptimeMonth": "97.02%",
     "uptimeYear": "98.91%",
-    "time": 1104,
+    "time": 1105,
     "timeDay": 1632,
     "timeWeek": 3766,
     "timeMonth": 4088,
@@ -517,7 +517,7 @@
       "2024-01-25": 20,
       "2024-01-24": 261,
       "2024-01-23": 544,
-      "2024-01-22": 166
+      "2024-01-22": 141
     }
   },
   {
@@ -537,7 +537,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-09": 565,
+      "2024-07-09": 587,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -921,7 +921,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-09": 565,
+      "2024-07-09": 587,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -1298,14 +1298,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "15.13%",
+    "uptimeYear": "15.12%",
     "time": 541,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 302,
     "dailyMinutesDown": {
-      "2024-07-09": 565,
+      "2024-07-09": 588,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
