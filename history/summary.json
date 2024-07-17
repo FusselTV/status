@@ -5,18 +5,19 @@
     "icon": "https://upload.wikimedia.org/wikipedia/de/6/68/Fritz%21_Logo.svg",
     "slug": "fritz-box",
     "status": "down",
-    "uptime": "53.44%",
+    "uptime": "53.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 524,
+    "time": 525,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-16": 950,
+      "2024-07-17": 32,
+      "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -379,8 +380,7 @@
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
-      "2023-07-19": 1440,
-      "2023-07-18": 1440
+      "2023-07-19": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "99.02%",
     "uptimeYear": "99.21%",
     "time": 1283,
-    "timeDay": 403,
-    "timeWeek": 385,
-    "timeMonth": 2434,
-    "timeYear": 1427,
+    "timeDay": 350,
+    "timeWeek": 384,
+    "timeMonth": 2354,
+    "timeYear": 1426,
     "dailyMinutesDown": {
       "2024-07-10": 35,
       "2024-07-03": 45,
@@ -463,18 +463,17 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "97.08%",
+    "uptime": "99.57%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "97.10%",
     "uptimeYear": "98.91%",
-    "time": 1157,
-    "timeDay": 5085,
-    "timeWeek": 4304,
-    "timeMonth": 4437,
+    "time": 1147,
+    "timeDay": 2671,
+    "timeWeek": 3894,
+    "timeMonth": 4435,
     "timeYear": 1228,
     "dailyMinutesDown": {
-      "2024-07-16": 9,
       "2024-07-15": 31,
       "2024-07-09": 63,
       "2024-07-06": 17,
@@ -520,7 +519,7 @@
       "2024-01-25": 20,
       "2024-01-24": 261,
       "2024-01-23": 544,
-      "2024-01-22": 112
+      "2024-01-22": 141
     }
   },
   {
@@ -529,18 +528,19 @@
     "icon": "https://cdn.worldvectorlogo.com/logos/portainer.svg",
     "slug": "portainer",
     "status": "down",
-    "uptime": "55.56%",
+    "uptime": "55.54%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 286,
+    "time": 287,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-16": 951,
+      "2024-07-17": 32,
+      "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -903,8 +903,7 @@
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
-      "2023-07-19": 1440,
-      "2023-07-18": 1440
+      "2023-07-19": 1440
     }
   },
   {
@@ -913,7 +912,7 @@
     "icon": "https://cdn.worldvectorlogo.com/logos/nginx-1.svg",
     "slug": "nginx",
     "status": "down",
-    "uptime": "15.30%",
+    "uptime": "15.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -924,7 +923,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-16": 951,
+      "2024-07-17": 32,
+      "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
@@ -1287,8 +1287,7 @@
       "2023-07-22": 1440,
       "2023-07-21": 1440,
       "2023-07-20": 1440,
-      "2023-07-19": 1440,
-      "2023-07-18": 1440
+      "2023-07-19": 1440
     }
   },
   {
@@ -1297,18 +1296,19 @@
     "icon": "https://0987.win/images/favicon-196x196.png",
     "slug": "kutt",
     "status": "down",
-    "uptime": "60.47%",
+    "uptime": "60.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "13.14%",
+    "uptimeYear": "13.04%",
     "time": 530,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 293,
     "dailyMinutesDown": {
-      "2024-07-16": 951,
+      "2024-07-17": 32,
+      "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
       "2024-07-13": 1440,
