@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-02": 433,
+      "2024-08-02": 446,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -390,7 +390,7 @@
     "slug": "bitwarden",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "45.56%",
+    "uptimeDay": "46.43%",
     "uptimeWeek": "81.33%",
     "uptimeMonth": "95.52%",
     "uptimeYear": "98.85%",
@@ -464,13 +464,13 @@
     "url": "https://ha.fussel.tv",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "93.65%",
+    "uptimeDay": "93.64%",
     "uptimeWeek": "99.09%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "98.90%",
-    "time": 1174,
+    "time": 1175,
     "timeDay": 3564,
     "timeWeek": 2128,
     "timeMonth": 3213,
@@ -524,7 +524,7 @@
       "2024-01-25": 20,
       "2024-01-24": 261,
       "2024-01-23": 544,
-      "2024-01-22": 48
+      "2024-01-22": 30
     }
   },
   {
@@ -544,7 +544,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-02": 433,
+      "2024-08-02": 446,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -928,7 +928,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-02": 433,
+      "2024-08-02": 446,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
@@ -1312,7 +1312,7 @@
     "timeMonth": 0,
     "timeYear": 266,
     "dailyMinutesDown": {
-      "2024-08-02": 433,
+      "2024-08-02": 446,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
