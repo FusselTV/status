@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 1069,
+      "2024-09-06": 1200,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -464,17 +464,17 @@
     "url": "https://ha.fussel.tv",
     "icon": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg",
     "slug": "home-assistant",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "96.57%",
+    "uptimeDay": "96.55%",
     "uptimeWeek": "99.51%",
     "uptimeMonth": "99.11%",
-    "uptimeYear": "98.93%",
-    "time": 1389,
-    "timeDay": 10324,
-    "timeWeek": 2671,
-    "timeMonth": 2773,
-    "timeYear": 1499,
+    "uptimeYear": "98.94%",
+    "time": 1392,
+    "timeDay": 7924,
+    "timeWeek": 2698,
+    "timeMonth": 2778,
+    "timeYear": 1501,
     "dailyMinutesDown": {
       "2024-09-06": 49,
       "2024-08-29": 18,
@@ -529,7 +529,7 @@
       "2024-01-27": 286,
       "2024-01-26": 545,
       "2024-01-25": 20,
-      "2024-01-24": 173
+      "2024-01-24": 142
     }
   },
   {
@@ -538,7 +538,7 @@
     "icon": "https://cdn.worldvectorlogo.com/logos/portainer.svg",
     "slug": "portainer",
     "status": "down",
-    "uptime": "52.34%",
+    "uptime": "52.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -549,7 +549,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 1069,
+      "2024-09-06": 1200,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -933,7 +933,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-06": 1069,
+      "2024-09-06": 1200,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
@@ -1306,7 +1306,7 @@
     "icon": "https://0987.win/images/favicon-196x196.png",
     "slug": "kutt",
     "status": "down",
-    "uptime": "56.97%",
+    "uptime": "56.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1317,7 +1317,7 @@
     "timeMonth": 0,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2024-09-06": 1069,
+      "2024-09-06": 1200,
       "2024-09-05": 1440,
       "2024-09-04": 1440,
       "2024-09-03": 1440,
