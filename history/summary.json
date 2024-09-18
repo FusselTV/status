@@ -5,18 +5,19 @@
     "icon": "https://upload.wikimedia.org/wikipedia/de/6/68/Fritz%21_Logo.svg",
     "slug": "fritz-box",
     "status": "down",
-    "uptime": "49.76%",
+    "uptime": "49.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 553,
+    "time": 556,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 282,
+      "2024-09-18": 35,
+      "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -379,8 +380,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "99.74%",
     "uptimeYear": "98.96%",
     "time": 1254,
-    "timeDay": 403,
-    "timeWeek": 383,
-    "timeMonth": 436,
+    "timeDay": 399,
+    "timeWeek": 381,
+    "timeMonth": 437,
     "timeYear": 1436,
     "dailyMinutesDown": {
       "2024-09-05": 86,
@@ -449,8 +449,7 @@
       "2023-10-14": 20,
       "2023-10-10": 22,
       "2023-09-28": 20,
-      "2023-09-20": 174,
-      "2023-09-19": 36
+      "2023-09-20": 174
     }
   },
   {
@@ -460,17 +459,16 @@
     "slug": "home-assistant",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "96.88%",
-    "uptimeMonth": "98.46%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.17%",
+    "uptimeMonth": "98.52%",
     "uptimeYear": "98.90%",
-    "time": 1402,
-    "timeDay": 3960,
-    "timeWeek": 2403,
-    "timeMonth": 2290,
-    "timeYear": 1564,
+    "time": 1407,
+    "timeDay": 7598,
+    "timeWeek": 2420,
+    "timeMonth": 2220,
+    "timeYear": 1571,
     "dailyMinutesDown": {
-      "2024-09-17": 10,
       "2024-09-14": 194,
       "2024-09-12": 92,
       "2024-09-10": 19,
@@ -526,7 +524,8 @@
       "2024-01-30": 18,
       "2024-01-28": 17,
       "2024-01-27": 286,
-      "2024-01-26": 545
+      "2024-01-26": 545,
+      "2024-01-25": 20
     }
   },
   {
@@ -535,18 +534,19 @@
     "icon": "https://cdn.worldvectorlogo.com/logos/portainer.svg",
     "slug": "portainer",
     "status": "down",
-    "uptime": "51.73%",
+    "uptime": "51.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 317,
+    "time": 318,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 282,
+      "2024-09-18": 35,
+      "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -909,8 +909,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   },
   {
@@ -919,18 +918,19 @@
     "icon": "https://cdn.worldvectorlogo.com/logos/nginx-1.svg",
     "slug": "nginx",
     "status": "down",
-    "uptime": "14.24%",
+    "uptime": "14.23%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 400,
+    "time": 404,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-17": 282,
+      "2024-09-18": 35,
+      "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -1293,8 +1293,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   },
   {
@@ -1303,18 +1302,19 @@
     "icon": "https://0987.win/images/favicon-196x196.png",
     "slug": "kutt",
     "status": "down",
-    "uptime": "56.31%",
+    "uptime": "56.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "2.18%",
-    "time": 375,
+    "time": 374,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2024-09-17": 282,
+      "2024-09-18": 35,
+      "2024-09-17": 1440,
       "2024-09-16": 1440,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
@@ -1671,8 +1671,7 @@
       "2023-09-23": 1440,
       "2023-09-22": 1440,
       "2023-09-21": 1440,
-      "2023-09-20": 1440,
-      "2023-09-19": 1440
+      "2023-09-20": 1440
     }
   }
 ]
