@@ -5,7 +5,7 @@
     "icon": "https://upload.wikimedia.org/wikipedia/de/6/68/Fritz%21_Logo.svg",
     "slug": "fritz-box",
     "status": "down",
-    "uptime": "45.56%",
+    "uptime": "45.51%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-10": 41,
+      "2024-12-11": 41,
+      "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -379,8 +380,7 @@
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
-      "2023-12-13": 1440,
-      "2023-12-12": 1440
+      "2023-12-13": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.06%",
     "time": 1233,
-    "timeDay": 375,
+    "timeDay": 367,
     "timeWeek": 404,
-    "timeMonth": 427,
-    "timeYear": 1441,
+    "timeMonth": 429,
+    "timeYear": 1445,
     "dailyMinutesDown": {
       "2024-09-24": 19,
       "2024-09-05": 86,
@@ -453,15 +453,15 @@
     "slug": "home-assistant",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "98.80%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.33%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "98.36%",
     "time": 1476,
-    "timeDay": 374,
-    "timeWeek": 384,
+    "timeDay": 334,
+    "timeWeek": 385,
     "timeMonth": 418,
-    "timeYear": 1670,
+    "timeYear": 1673,
     "dailyMinutesDown": {
       "2024-12-09": 17,
       "2024-12-06": 151,
@@ -531,7 +531,7 @@
     "icon": "https://cdn.worldvectorlogo.com/logos/portainer.svg",
     "slug": "portainer",
     "status": "down",
-    "uptime": "47.36%",
+    "uptime": "47.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -542,7 +542,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-10": 41,
+      "2024-12-11": 41,
+      "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -905,8 +906,7 @@
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
-      "2023-12-13": 1440,
-      "2023-12-12": 1440
+      "2023-12-13": 1440
     }
   },
   {
@@ -915,7 +915,7 @@
     "icon": "https://cdn.worldvectorlogo.com/logos/nginx-1.svg",
     "slug": "nginx",
     "status": "down",
-    "uptime": "13.04%",
+    "uptime": "13.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -926,7 +926,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-10": 41,
+      "2024-12-11": 41,
+      "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -1289,8 +1290,7 @@
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
-      "2023-12-13": 1440,
-      "2023-12-12": 1440
+      "2023-12-13": 1440
     }
   },
   {
@@ -1299,18 +1299,19 @@
     "icon": "https://0987.win/images/favicon-196x196.png",
     "slug": "kutt",
     "status": "down",
-    "uptime": "51.55%",
+    "uptime": "51.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "2.18%",
-    "time": 259,
+    "time": 257,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 222,
+    "timeYear": 223,
     "dailyMinutesDown": {
-      "2024-12-10": 41,
+      "2024-12-11": 41,
+      "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
@@ -1667,8 +1668,7 @@
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
-      "2023-12-13": 1440,
-      "2023-12-12": 1440
+      "2023-12-13": 1440
     }
   }
 ]
