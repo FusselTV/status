@@ -5,7 +5,7 @@
     "icon": "https://upload.wikimedia.org/wikipedia/de/6/68/Fritz%21_Logo.svg",
     "slug": "fritz-box",
     "status": "down",
-    "uptime": "43.17%",
+    "uptime": "43.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-03": 38,
+      "2025-02-04": 37,
+      "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
@@ -379,8 +380,7 @@
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
-      "2024-02-06": 1440,
-      "2024-02-05": 1440
+      "2024-02-06": 1440
     }
   },
   {
@@ -393,12 +393,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.38%",
     "time": 1284,
-    "timeDay": 536,
-    "timeWeek": 415,
+    "timeDay": 366,
+    "timeWeek": 416,
     "timeMonth": 412,
-    "timeYear": 1373,
+    "timeYear": 1375,
     "dailyMinutesDown": {
       "2024-09-24": 19,
       "2024-09-05": 86,
@@ -446,10 +446,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.36%",
     "time": 1683,
-    "timeDay": 498,
-    "timeWeek": 397,
-    "timeMonth": 403,
-    "timeYear": 1957,
+    "timeDay": 350,
+    "timeWeek": 400,
+    "timeMonth": 404,
+    "timeYear": 1961,
     "dailyMinutesDown": {
       "2024-12-28": 23,
       "2024-12-09": 17,
@@ -520,7 +520,7 @@
     "icon": "https://cdn.worldvectorlogo.com/logos/portainer.svg",
     "slug": "portainer",
     "status": "down",
-    "uptime": "44.88%",
+    "uptime": "44.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -531,7 +531,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-03": 38,
+      "2025-02-04": 37,
+      "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
@@ -894,8 +895,7 @@
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
-      "2024-02-06": 1440,
-      "2024-02-05": 1440
+      "2024-02-06": 1440
     }
   },
   {
@@ -904,7 +904,7 @@
     "icon": "https://cdn.worldvectorlogo.com/logos/nginx-1.svg",
     "slug": "nginx",
     "status": "down",
-    "uptime": "12.36%",
+    "uptime": "12.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -915,7 +915,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-03": 38,
+      "2025-02-04": 37,
+      "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
@@ -1278,8 +1279,7 @@
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
-      "2024-02-06": 1440,
-      "2024-02-05": 1440
+      "2024-02-06": 1440
     }
   },
   {
@@ -1288,18 +1288,19 @@
     "icon": "https://0987.win/images/favicon-196x196.png",
     "slug": "kutt",
     "status": "down",
-    "uptime": "48.85%",
+    "uptime": "48.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "2.18%",
-    "time": 221,
+    "time": 220,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 238,
+    "timeYear": 240,
     "dailyMinutesDown": {
-      "2025-02-03": 38,
+      "2025-02-04": 37,
+      "2025-02-03": 1440,
       "2025-02-02": 1440,
       "2025-02-01": 1440,
       "2025-01-31": 1440,
@@ -1656,8 +1657,7 @@
       "2024-02-09": 1440,
       "2024-02-08": 1440,
       "2024-02-07": 1440,
-      "2024-02-06": 1440,
-      "2024-02-05": 1440
+      "2024-02-06": 1440
     }
   }
 ]
