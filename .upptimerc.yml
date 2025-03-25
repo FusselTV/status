@@ -3,27 +3,24 @@ owner: FusselTV # Your GitHub organization or username, where this repository li
 repo: status # The name of this repository
 
 sites:
-  - name: FRITZ!Box
-    url: https://avm.fussel.tv
-    icon: https://upload.wikimedia.org/wikipedia/de/6/68/Fritz%21_Logo.svg
   - name: Bitwarden
     url: https://vault.fussel.tv
-    icon: https://products.containerize.com/password-management/bitwarden/menu_image.png
+    icon: https://cdn.jsdelivr.net/gh/selfhst/icons/svg/bitwarden.svg
   - name: Home Assistant
     url: https://ha.fussel.tv
-    icon: https://upload.wikimedia.org/wikipedia/commons/6/6e/Home_Assistant_Logo.svg
-  - name: Portainer
-    url: https://portainer.fussel.tv/
-    icon: https://cdn.worldvectorlogo.com/logos/portainer.svg
-  - name: Nginx
-    url: https://nginx.fussel.tv/
-    icon: https://cdn.worldvectorlogo.com/logos/nginx-1.svg
-  - name: Kutt
-    url: https://0987.win/
-    icon: https://0987.win/images/favicon-196x196.png
-    
-    
-    
+    icon: https://cdn.jsdelivr.net/gh/selfhst/icons/svg/home-assistant.svg
+  - name: Jellyfin
+    url: https://jf.fussel.tv
+    icon: https://cdn.jsdelivr.net/gh/selfhst/icons/svg/jellyfin.svg
+  - name: Jellyseerr
+    url: https://yoink.fussel.tv
+    icon: https://cdn.jsdelivr.net/gh/selfhst/icons/svg/jellyseerr.svg
+  - name: Authelia
+    url: https://auth.fussel.tv
+    icon: https://cdn.jsdelivr.net/gh/selfhst/icons/svg/authelia.svg
+  - name: Uptime Kuma
+    url: https://uptime.fussel.tv
+    icon: https://cdn.jsdelivr.net/gh/selfhst/icons/svg/uptime-kuma.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -37,8 +34,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: Twitch
-      href: https://twitch.tv/fusseltv
     - title: Twitter
       href: https://twitter.com/fussel_tv
   theme: dark
