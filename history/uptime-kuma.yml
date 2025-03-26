@@ -1,7 +1,7 @@
 url: https://uptime.fussel.tv
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-03-26T05:24:55.971Z
+status: up
+code: 200
+responseTime: 483
+lastUpdated: 2025-03-26T08:22:02.316Z
 startTime: 2025-03-25T15:56:40.126Z
 generator: Upptime <https://github.com/upptime/upptime>
