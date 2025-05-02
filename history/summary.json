@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.47%",
-    "time": 1253,
-    "timeDay": 345,
-    "timeWeek": 403,
-    "timeMonth": 438,
-    "timeYear": 1189,
+    "time": 1251,
+    "timeDay": 361,
+    "timeWeek": 408,
+    "timeMonth": 439,
+    "timeYear": 1188,
     "dailyMinutesDown": {
       "2025-03-21": 24,
       "2024-09-24": 19,
@@ -37,8 +37,7 @@
       "2024-05-20": 22,
       "2024-05-14": 22,
       "2024-05-09": 17,
-      "2024-05-04": 73,
-      "2024-05-02": 58
+      "2024-05-04": 73
     }
   },
   {
@@ -53,9 +52,9 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "98.38%",
     "time": 1683,
-    "timeDay": 366,
-    "timeWeek": 421,
-    "timeMonth": 448,
+    "timeDay": 353,
+    "timeWeek": 424,
+    "timeMonth": 445,
     "timeYear": 1914,
     "dailyMinutesDown": {
       "2025-04-20": 61,
@@ -110,8 +109,7 @@
       "2024-05-16": 18,
       "2024-05-14": 69,
       "2024-05-05": 33,
-      "2024-05-04": 74,
-      "2024-05-02": 27
+      "2024-05-04": 74
     }
   },
   {
@@ -120,16 +118,16 @@
     "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/jellyfin.svg",
     "slug": "jellyfin",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.17%",
-    "uptimeYear": "99.31%",
-    "time": 650,
-    "timeDay": 473,
-    "timeWeek": 556,
-    "timeMonth": 669,
-    "timeYear": 650,
+    "uptimeYear": "99.33%",
+    "time": 646,
+    "timeDay": 486,
+    "timeWeek": 554,
+    "timeMonth": 670,
+    "timeYear": 646,
     "dailyMinutesDown": {
       "2025-04-05": 362
     }
@@ -140,16 +138,16 @@
     "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/jellyseerr.svg",
     "slug": "jellyseerr",
     "status": "up",
-    "uptime": "99.31%",
+    "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.18%",
-    "uptimeYear": "99.31%",
-    "time": 1176,
-    "timeDay": 901,
-    "timeWeek": 1121,
-    "timeMonth": 1190,
-    "timeYear": 1176,
+    "uptimeYear": "99.33%",
+    "time": 1170,
+    "timeDay": 933,
+    "timeWeek": 1131,
+    "timeMonth": 1192,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2025-04-05": 361
     }
@@ -165,11 +163,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 413,
-    "timeDay": 338,
-    "timeWeek": 401,
-    "timeMonth": 413,
-    "timeYear": 413,
+    "time": 412,
+    "timeDay": 344,
+    "timeWeek": 404,
+    "timeMonth": 414,
+    "timeYear": 412,
     "dailyMinutesDown": {}
   },
   {
@@ -178,16 +176,16 @@
     "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/svg/uptime-kuma.svg",
     "slug": "uptime-kuma",
     "status": "up",
-    "uptime": "99.55%",
+    "uptime": "99.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "99.55%",
-    "time": 573,
-    "timeDay": 473,
-    "timeWeek": 548,
-    "timeMonth": 573,
-    "timeYear": 573,
+    "uptimeYear": "99.56%",
+    "time": 571,
+    "timeDay": 483,
+    "timeWeek": 554,
+    "timeMonth": 575,
+    "timeYear": 571,
     "dailyMinutesDown": {
       "2025-04-20": 60,
       "2025-03-26": 177
